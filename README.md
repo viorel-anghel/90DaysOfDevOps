@@ -15,7 +15,7 @@ This will not cover all things DevOps but it will cover the areas that I feel wi
 
 ## Progress 
 
-- [✔️] ♾️ 1 > [Introduction](Days/day01.md)
+- [x] ♾️ 1 > [Introduction](Days/day01.md)
 
 ### What is and why do we use DevOps
 
