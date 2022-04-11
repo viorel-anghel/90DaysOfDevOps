@@ -1,17 +1,10 @@
 # 90DaysOfDevOps
+# with Vang notes and additions
 
-<p align="center">
-  <img src="https://github.com/MichaelCade/90DaysOfDevOps/blob/main/logo.png?raw=true" alt="90DaysOfDevOps Logo"/>
-</p>
+I made this fork from https://github.com/MichaelCade/90DaysOfDevOps/ and I'll be using it for my own learning.
 
 
-This repository is used to document my journey on getting a better foundational knowledge of DevOps. I will be starting this journey on the 1st January 2022 but the idea is that we take 90 days which just so happens to be January 1st to March 31st. 
-
-The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources. 
-
-The goal is to take 90 days, 1 hour a day, to tackle over 13 areas of DevOps to a foundational knowledge. 
-
-This will not cover all things DevOps but it will cover the areas that I feel will benefit my learning and understanding overall. 
+This repository is used to document my journey on getting a better foundational knowledge of DevOps. I will be starting this journey on the 11 Apr 2022, working 6 days per week, 1-2 hours per day.
 
 ## Progress 
 
